@@ -20,4 +20,6 @@ from metadatastore.test.test_mds import (
     test_exceptions_are_mds_attributes,
     # test_pickle,
     test_run_stop_by_run_start,
-    test_run_stop_insertion)
+    test_run_stop_insertion,
+    test_double_run_start
+)
